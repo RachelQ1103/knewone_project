@@ -1,20 +1,20 @@
 ### knewone table
 ---
-  #### 商品表 product
-| 字段    | 英文 |
+#### 商品表 product
+| 字段  | 英文 |
 | :------| ---- |
 | id    | id |
-| 创建时间 |create_time|
+| 创建时间 |create_time |
 | 分享者id    | user_id |
 | 名称    | name |
 | 价格    | price |
-| 图片 |  pirture_urls|
+| 图片 |  pirture_urls |
 | 动态    | tends|
-| 讨论    | commemts|
+| 讨论    | commemts |
 | 评测    | evaluations |
 | 喜欢/点赞    | likes |
 | 拥有    | owns |
-| 品牌id    | brand_id|
+| 品牌id    | brand_id |
 
 
 ---
